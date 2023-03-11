@@ -1,0 +1,36 @@
+
+.g1menu{
+    margin: 50px 20%;
+    color:black;
+    line-height:40px;
+    
+}
+.g1table{
+    
+    /* 這是字體 */
+    font-family: "Microsoft JhengHei"; 
+    /* 這是粗體 */
+    font-weight:bold;
+    /* 字的大小 */
+    font-size:16px;
+    /* border: white 0px solid;  */
+    /* border-bottom: none; */
+    /* border-collapse: separate; */
+    /* border: 2px solid red; */
+    /* border-radius: 25px; */
+    /* border-spacing: 0px 10px; */
+    text-align:left;
+    opacity: 1;
+}
+tr:hover{
+    opacity: 0.8;
+}
+a{
+    color:black;
+}
+#pageintro{
+    padding: 40px 0 20px;
+}
+.back{
+    text-align:center;
+}
