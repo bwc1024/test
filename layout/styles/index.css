@@ -2,3 +2,13 @@
     width: 580px;
     height: 340px;
 }
+#indexlogo{
+    padding: 200px 0 280px;
+    margin:-200px 0;
+}
+.indexclass{
+    background-color: #FFF8D7;
+}
+.fourlogo{
+    background-color: white;
+}
