@@ -43,7 +43,8 @@ a{
 }
 .titles{
     font-size: 16px;
-    font-weight:bold;
+    /* font-weight:bold; */
     margin: 0 0 10px 0;
+    font-family: "Microsoft_JhengHei";
 }
 
