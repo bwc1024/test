@@ -10,7 +10,7 @@
     /* 這是字體 */
     font-family: "Microsoft JhengHei"; 
     /* 這是粗體 */
-    font-weight:bold;
+    /* font-weight:bold; */
     /* 字的大小 */
     font-size:16px;
     /* border: white 0px solid;  */
@@ -37,4 +37,7 @@ a{
     color:white;
     margin: 0 40%;
     width: 20%;
+}
+.a_back{
+    color:white;
 }
