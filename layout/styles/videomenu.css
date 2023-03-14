@@ -58,6 +58,9 @@ a{
     font-weight:bold;
 }
 #top{
-    color:black;
+    /* color:black; */
 }
-
+.navli{
+    font-size: 20px;
+    color:white;
+}
