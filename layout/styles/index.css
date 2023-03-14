@@ -12,3 +12,10 @@
 .fourlogo{
     background-color: white;
 }
+#menu {
+    position: fixed;
+    right: 10%;
+    /* top: 50%; */
+    /* width: 8em; */
+    /* margin-top: -2.5em; */
+}

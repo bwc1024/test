@@ -39,12 +39,25 @@ a{
     width: 20%;
 }
 .a_back{
+    font-size: 16px;
     color:white;
 }
 .titles{
     font-size: 16px;
+    color:black;
     /* font-weight:bold; */
     margin: 0 0 10px 0;
-    font-family: "Microsoft_JhengHei";
+    font-family: "Microsoft JhengHei"; 
+    
+}
+.menu_title{
+    text-align: center;
+    color:white;
+    font-size: 36px; 
+    font-family: "Microsoft JhengHei";
+    font-weight:bold;
+}
+#top{
+    color:black;
 }
 
