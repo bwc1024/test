@@ -71,8 +71,8 @@ File: Layout CSS
 .shout figure{display:block; max-width:546px;/* same width as the image - contains the caption */}
 .shout figure img{}
 .shout figure figcaption{display:block; position:relative;}
-.shout figure figcaption a{display:block; position:relative; padding:15px; border:solid; border-width:0 1px 1px 1px;}
-.shout figure figcaption a::after{position:absolute; top:12px; right:15px; width:30px; height:30px; line-height:30px; font-family:"Font Awesome\ 5 Free"; font-weight:900; content:"\f105";/* fa-angle-right */ text-align:center; border-radius:50%;}
+.shout figure figcaption a{display:block; position:relative; padding:3px 15px 0 15px; border:solid; border-width:0 1px 1px 1px;}
+.shout figure figcaption a::after{position:absolute; top:32px; right:15px; width:30px; height:30px; line-height:30px; font-family:"Font Awesome\ 5 Free"; font-weight:900; content:"\f105";/* fa-angle-right */ text-align:center; border-radius:50%;}
 
 /* Team Members */
 .team{}
