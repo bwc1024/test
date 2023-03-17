@@ -29,7 +29,7 @@ a{
     color:black;
 }
 #pageintro{
-    padding: 40px 0 20px;
+    padding: 56px 0 20px;
 }
 .back{
     text-align:center;
@@ -53,9 +53,13 @@ a{
 .menu_title{
     text-align: center;
     color:white;
-    font-size: 36px; 
+    font-size: 28px; 
     font-family: "Microsoft JhengHei";
     font-weight:bold;
+}
+.text_title{
+    /* padding-top:28px ; */
+    margin-top:16px;
 }
 #top{
     /* color:black; */
