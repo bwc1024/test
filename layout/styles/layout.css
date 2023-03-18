@@ -13,6 +13,7 @@ File: Layout CSS
 @import url("framework.css");
 
 /* Rows
+
 --------------------------------------------------------------------------------------------------------------- */
 .row0, .row0 a{}
 .row1, .row1 a{}
@@ -47,7 +48,7 @@ File: Layout CSS
 .container .content{}
 
 .sectiontitle{display:block; max-width:55%; margin:0 auto 80px; text-align:center;}
-.sectiontitle *{margin:0;}
+.sectiontitle *{margin:10px 0;}
 
 .elements{}
 .elements-three li, .elements-four li{margin-bottom:50px;}

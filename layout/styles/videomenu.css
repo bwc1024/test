@@ -37,10 +37,12 @@ a{
     color:white;
     margin: 0 40%;
     width: 20%;
+    font-family: "Microsoft JhengHei";
 }
 .a_back{
-    font-size: 16px;
+    font-size: 1.4rem;
     color:white;
+    font-family: "Microsoft JhengHei";
 }
 .titles{
     font-size: 16px;
@@ -60,6 +62,7 @@ a{
 .text_title{
     /* padding-top:28px ; */
     margin-top:16px;
+    font-family: "Microsoft JhengHei";
 }
 #top{
     /* color:black; */
@@ -67,4 +70,5 @@ a{
 .navli{
     font-size: 20px;
     color:white;
+    font-family: "Microsoft JhengHei";
 }
