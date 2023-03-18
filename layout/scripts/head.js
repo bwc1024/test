@@ -1,7 +1,7 @@
 header='<div class="wrapper row1 menu">\
         <header id="header" class="hoc clear">\
         <div id="logo" class="fl_left"> \
-            <h1 class="logoname"><a href="index.html">語言<span>科</span>學</a></h1>\
+            <h1 class="logoname"><a href="index.html"><span class="index_logo_title">學學</span>語言學</a></h1>\
         </div>\
         <nav id="mainav" class="fl_right">\
             <ul class="clear">\
